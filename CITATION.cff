@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use PDG-GCN, please cite the accompanying manuscript and this software."
+title: "PDG-GCN: Process-Direction-Gated Graph Convolutional Network"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Zhihao
+  - family-names: Wang
+    given-names: Jian
+  - family-names: Pasternack
+    given-names: Gregory Brian
+version: 1.0.0
+date-released: 2026-08-27
+preferred-citation:
+  type: article
+  title: "Adaptive Representation of River-Network Context for National Geomorphic Stream Classification"
+  authors:
+    - family-names: Wang
+      given-names: Zhihao
+    - family-names: Wang
+      given-names: Jian
+    - family-names: Pasternack
+      given-names: Gregory Brian
+  year: 2026
