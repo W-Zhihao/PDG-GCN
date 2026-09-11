@@ -2,8 +2,6 @@
 
 PyTorch implementation of the **Process-Direction-Gated Graph Convolutional Network (PDG-GCN)** for geomorphic river-reach classification.
 
-This repository contains only the proposed model. It does not include baseline architectures, dataset preprocessing, training workflows, evaluation metrics, plotting, or post hoc interpretability analyses.
-
 ## Architecture
 
 PDG-GCN represents a river network as a directed graph. Every stored edge `(i, j)` points from an immediately upstream reach `i` to its immediately downstream reach `j`. The model:
